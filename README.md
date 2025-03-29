@@ -11,7 +11,7 @@ Follow these steps to set up the project:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/AthletiGod.git
+   git clone https://github.com/tetravoltx/AthletiGod.git
    ```
 
 2. **Navigate to the project folder**
